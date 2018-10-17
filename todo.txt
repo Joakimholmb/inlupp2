@@ -5,3 +5,4 @@ döp om list_merch_aux
 Lägg till check att merch inte finns tidigare // Add_merch
 edit merch, ändra hash_table_remove till merch_remove 
 fixa prints till engelska och mer formella
+byt ht variabelnamn till unika namn för varje ht (2 st)
